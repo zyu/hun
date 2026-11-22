@@ -1,0 +1,8 @@
+.venv/
+/.venv-windows-build/
+/build/
+/dist/
+__pycache__/
+.DS_Store
+转换数据集/
+data/
